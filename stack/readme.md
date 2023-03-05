@@ -1,6 +1,6 @@
 # 자료구조
 
-### stack
+### **Stack**
 
 > 🎨 First in Last out
 
